@@ -1,0 +1,29 @@
+p,h2,h1
+{
+    color: white;
+    font-family:palatino;
+}
+
+
+
+.header
+{
+    background-color: #000000;
+    text-align: center;
+    display: flexbox;
+    justify-content: space-between;
+    border-radius: 20px;
+    Height: 100px;
+}
+
+
+.site-description{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+body 
+{
+    background-color: #0E1A2D
+}
